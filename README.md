@@ -6,7 +6,8 @@ This PowerShell script allows you to remotely restart or shutdown computers on a
 
 ## Key Features: ##
 
-● Remotely restart or shutdown computers on a domain.     ● Option to specify a delay time before the action is executed.
+● Remotely restart or shutdown computers on a domain.     
+● Option to specify a delay time before the action is executed.
 
 ![image](https://github.com/vMawk/TCP-Port-Scanner/assets/117638856/e8b0bcd9-b92c-417e-9b71-df95868a1166)
 
